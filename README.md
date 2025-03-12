@@ -8,7 +8,7 @@ My name is Kajetan and I'm 2nd-year Computer Science student at AGH University o
 - ⚡ Fun fact: I love math, and as a side quest, I'm a tutor in this subject.
 
 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,sql,haskell,java,erlang,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,c,cpp,haskell,java)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kajetanfratczak" />
