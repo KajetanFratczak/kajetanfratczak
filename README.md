@@ -21,15 +21,15 @@ I'm a 2nd-year Computer Science student at AGH University of Science and Technol
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kajetan-fratczak&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kajetan-fratczak&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kajetan-fratczak&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kajetanfratczak&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kajetanfratczak&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kajetanfratczak&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Featured Projects
 
 ### 🌐 Training Plan Generator
 A responsive website showcasing my skills using JavaScript.
-[View Project]([https://kajetanfratczak.github.io])
+![View Project](https://kajetanfratczak.github.io)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajetan-fratczak)
