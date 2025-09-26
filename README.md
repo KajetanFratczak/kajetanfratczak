@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kajetan
 
 ## 💫 About Me
-I'm a 2nd-year Computer Science student at AGH University of Science and Technology, passionate about frontend development and modern web technologies.
+I'm a 3rd-year Computer Science student at AGH University of Science and Technology, passionate about frontend development and modern web technologies.
 
 ## 🚀 What I'm Up To
 - 🔭 I’m currently working on improving my skills in frontend development and exploring new frameworks like React and Angular.
