@@ -5,7 +5,7 @@ I'm a 3rd-year Computer Science student at AGH University of Science and Technol
 
 ## 🚀 What I'm Up To
 - 🔭 I’m currently working on improving my skills in frontend development and exploring new frameworks like React and Angular.
-- 🌱 I’m currently learning advanced JavaScript, Node.js, the basics of Erlang, Rust, databases architectures, and object-oriented design.
+- 🌱 I’m currently learning advanced JavaScript, Node.js, the basics of Erlang, Rust, database architectures, and object-oriented design.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kajetan-fratczak/)
 - ⚡ Fun fact: I love math, and as a side quest, I'm a tutor in this subject. I'm also passionate about martial arts and all kinds of sports.
 
@@ -14,7 +14,7 @@ I'm a 3rd-year Computer Science student at AGH University of Science and Technol
 <table>
   <tr>
     <td align="center"><strong>🌐 Web Development</strong></td>
-    <td align="center"><strong>⚙️ Systemowe i ogólne</strong></td>
+    <td align="center"><strong>⚙️ Systems & General</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -32,6 +32,13 @@ I'm a 3rd-year Computer Science student at AGH University of Science and Technol
     </td>
   </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajetan-fratczak&show_icons=true&theme=radical" height="180" alt="Kajetan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajetan-fratczak&layout=compact&theme=radical" height="180" alt="Top Langs" />
+</div>
 
 ## 🏆 Featured Projects
 
