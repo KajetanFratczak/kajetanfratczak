@@ -5,33 +5,16 @@ I'm a 3rd-year Computer Science student at AGH University of Science and Technol
 
 ## 🚀 What I'm Up To
 - 🔭 I’m currently working on improving my skills in frontend development and exploring new frameworks like React and Angular.
-- 🌱 I’m currently learning advanced JavaScript, Node.js, the basics of Erlang, Rust, databases architectures, and object-oriented design.
+- 🌱 I’m currently learning advanced JavaScript, Node.js, the basics of Erlang, Rust, database architectures, and object-oriented design.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kajetan-fratczak/)
 - ⚡ Fun fact: I love math, and as a side quest, I'm a tutor in this subject. I'm also passionate about martial arts and all kinds of sports.
 
 ## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><strong>🌐 Web Development</strong></td>
-    <td align="center"><strong>⚙️ Systemowe i ogólne</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,c,cpp,rust&theme=dark" />
+  </a>
+</div>
 
 ## 🏆 Featured Projects
 
