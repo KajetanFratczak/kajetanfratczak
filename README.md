@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Kajetan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=140&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=700&color=gradient&center=true&vCenter=true&width=435&lines=Witaj+na+moim+profilu!+👋" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 💫 About Me
 I'm a 3rd-year Computer Science student at AGH University of Science and Technology, passionate about frontend development and modern web technologies.
@@ -25,3 +31,5 @@ A responsive website showcasing my skills using JavaScript.
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajetan-fratczak)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajetan-fratczak)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=140&section=footer"/>
