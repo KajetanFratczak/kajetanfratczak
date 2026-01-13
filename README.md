@@ -28,6 +28,11 @@ I'm a 3rd-year Computer Science student at AGH University of Science and Technol
 A responsive website showcasing my skills using JavaScript.
 [View Project](https://kajetanfratczak.github.io)
 
+### 🌐 OtoBiznes
+A dedicated business listing platform focused on intuitive UI and seamless navigation for local entrepreneurs.
+Project made for BiteHack 2026.
+[View Project](https://arcane-server.pl/otobiznes/)
+
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajetan-fratczak)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajetan-fratczak)
