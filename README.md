@@ -31,7 +31,7 @@ A responsive website showcasing my skills using JavaScript.
 ### 🌐 OtoBiznes
 A dedicated business listing platform focused on intuitive UI and seamless navigation for local entrepreneurs.
 Project made for BiteHack 2026.
-[View Project](https://arcane-server.pl/otobiznes/)
+[View Project](https://otobiznes.arcane-server.pl/)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajetan-fratczak)
