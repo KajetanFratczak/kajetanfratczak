@@ -7,7 +7,7 @@
 </div>
 
 ## 💫 About Me
-I'm a 4th-year Computer Science student at AGH University of Science and Technology, passionate about frontend development and modern web technologies.
+I'm a 4th-year Computer Science student at AGH University of Science and Technology, passionate about optimizing tasks with AI, frontend development, data analytics, data visualization (Power BI / Metabase) and modern web technologies.
 
 ## 🚀 What I'm Up To
 - 🔭 I’m currently working on improving my skills in frontend development and exploring new frameworks like React and Angular.
